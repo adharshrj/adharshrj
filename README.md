@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adharshrj
 - 👀 I’m interested in ... Full-Stack Development
-- 🌱 I’m currently learning ...Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...Design Patterns
+- 💞️ I’m looking to collaborate on ... OSS
 - 📫 How to reach me ...
 
 <!---
